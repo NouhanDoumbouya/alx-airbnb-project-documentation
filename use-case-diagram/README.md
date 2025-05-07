@@ -16,4 +16,4 @@ The diagram illustrates how users (Guests, Hosts, and Admins) interact with the 
 ## Diagram
 
 Refer to the attached PNG file for the complete use case diagram.
-![USECASEDIAGRAM](https://drive.google.com/file/d/1Rg4jY-w-7yKoBH67Ec5rHQ3mX3XjEHQV/view?usp=sharing)
+![USECASEDIAGRAM](use-case-diagram/image/Use case Diagram.drawio.png)
