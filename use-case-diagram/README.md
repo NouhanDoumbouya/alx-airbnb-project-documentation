@@ -16,4 +16,4 @@ The diagram illustrates how users (Guests, Hosts, and Admins) interact with the 
 ## Diagram
 
 Refer to the attached PNG file for the complete use case diagram.
-![USECASEDIAGRAM](use-case-diagram/image/Use case Diagram.drawio.png)
+![USECASEDIAGRAM](https://github.com/NouhanDoumbouya/alx-airbnb-project-documentation/blob/main/use-case-diagram/image/Use%20case%20Diagram.drawio.png)
